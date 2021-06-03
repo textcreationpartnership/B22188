@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments declaration concerning the Kings most excellent Majesty with the Kings Majesties determination concerning the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22188</idno><idno type="EEBO-CITATION">12206289</idno>
+  <idno type="VID">197404</idno>
+  <idno type="EEBO-PROQUEST">2240942762</idno>
+  
+            <idno type="STC">Wing E2134</idno>
+            <idno type="OCLC">12206289</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments declaration concerning the Kings most excellent Majesty with the Kings Majesties determination concerning the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for R. VVilliams,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 3, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197404:1"/>
+            <p>THE PARLIAMENTS DECLARATION Concerning the Kings most Excellent <hi>Majesty.</hi>
+            </p>
+            <p>With the Kings Majesties Determination con<g ref="char:EOLhyphen"/>cerning the PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by His Majesties speciall Command.</p>
+                        <p>And Ordered to be Printed and Published.</p>
+                        <closer>
+                           <signed>Hen. Elsing Cler. Parl. D. Com</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <hi>August</hi>
+               <add>3</add>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Printed for <hi>R. VVilliams,</hi> 1642.</p>
+            <pb facs="tcp:197404:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:197404:2"/>
+            <head>THE <hi>PARLJAMENTS DECLARATION</hi> Concerning the Kings most Excellent <hi>MAJESTY.</hi>
+            </head>
+            <p>THe Lords and Commons assem<g ref="char:EOLhyphen"/>bled in <hi>Parliament</hi> do Declare, that His Majesty hath profest, that he is truly sensible of the Burthens of His People, which hath begot in them, a Hope, that He will take that Course, which will be most effectuall, to ease them of their Burthens, that is, to joyn with His <hi>Parliament,</hi> in preser<g ref="char:EOLhyphen"/>ving the Peace of the Kingdom; which
+<pb facs="tcp:197404:3"/> by his absence hath bin much in lange<g ref="char:EOLhyphen"/>red, and by which hindering the volun<g ref="char:EOLhyphen"/>tary adventures for recovery of <hi>Ireland,</hi> and disabling the Subjects to discharge the great Tax laid upon them, by which means the warre is like to be much more heavie to the Kingdom.</p>
+            <p>And for his Majesties wants, the Par<g ref="char:EOLhyphen"/>liament have bin no cause of them, wee have not diminished his just Revenue, but have much eased his publique Charge, and somwhat his private, and they shall be ready in a Parliament<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry way to settle his Revenue in such an Honorable proportion, as may be an<g ref="char:EOLhyphen"/>swerable to both, when hee shall put himself into such a posture of Govern<g ref="char:EOLhyphen"/>ment, that His Subjects may be sure to enjoy His just protection for their laws and Liberties.</p>
+            <p>Of which protection they hace smal hopes, by reason that his Majesties Court is a Sanctuary for all kind of De<g ref="char:EOLhyphen"/>linquents,
+<pb facs="tcp:197404:3"/> against the <hi>Justice of Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>The consideration wherof enforceth both Houses to declare, that his Majesty has ingaged himself in a warre against the Parliament, and all those that have according to their Commands bin just and faithfull: to which end he has rai<g ref="char:EOLhyphen"/>sed, and doth daily indeavour to raise Forces.</p>
+            <p>In which Army there are divers Pa<g ref="char:EOLhyphen"/>pists, and other persons of desperate Fortunes and condition, ready to execute any violence, or oppression.</p>
+            <p>Divers other preparations of War<g ref="char:EOLhyphen"/>like provisions are made beyond the Sea, besides great number of Gentlemen, Horses, and Arms drawn from all parts of the Kingdom, and all the Gentlemen in <hi>Yorkeshire</hi> required to bring in their Horses for His Majesties service.</p>
+            <p>These things being by His Majesty begun, and a warre thus actually leavied in severall parts of the Kingdom.</p>
+            <pb facs="tcp:197404:4"/>
+            <p> The Lords and Commons do De<g ref="char:EOLhyphen"/>clare, that they are Resolved (being bound therto by Conscience) to raise Forces for the preservation of the peace of the Kingdom, and protection of the subjects in their persons and estates, ac<g ref="char:EOLhyphen"/>cording to law, the defence and security of <hi>Parliament,</hi> and of all those who have bin imployed for to crosse the designs and expectations of those who have drawn his Majstyy to these Courses and Counsels, in favour of the Papists at home, the Rebels in <hi>Ireland,</hi> and the for<g ref="char:EOLhyphen"/>reign Enemies of our Religion and Peace.</p>
+            <p>As touching the Adjourning of the <hi>Parliament,</hi> they being most assured of the faithfulnesse of the City and Suburbs, and for themselvs, they would quicken the vigour of the Laws, the industry of the <hi>Magistrate,</hi> the authority of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> for the suppressing of tumultuous insolencies whatsoever, and for the vin<g ref="char:EOLhyphen"/>dicating of his Majesties Honour from all insupportable, and insolent scandals,
+<pb facs="tcp:197404:4"/> if any such shall be found, or raised up<g ref="char:EOLhyphen"/>on him; and therfore they think it al<g ref="char:EOLhyphen"/>together unnecessary, to adjourn the <hi>Parliament</hi> to any other place.</p>
+            <p>Likewise His Majesty doth Declare, concerning his raising of Forces, that what he hath done, is but in Order to his own defence.</p>
+            <p>And his Majesty no longer desires the blessing and protection of Almigh<g ref="char:EOLhyphen"/>ty God, upon himself and his posterity than he and they shall solemnly ob<g ref="char:EOLhyphen"/>serve the due execurion of the Laws, in defence of <hi>Parliaments,</hi> and the just Li<g ref="char:EOLhyphen"/>berties and Priviledges therof.</p>
+            <p>These are the Differences and Di<g ref="char:EOLhyphen"/>stractions that are hapned between his <hi>Maiesty and Parliament.</hi> God of his a<g ref="char:EOLhyphen"/>bundant mercy, reconcile the said Dif<g ref="char:EOLhyphen"/>ferences, and create a right understan<g ref="char:EOLhyphen"/>ding between them, that all their coun<g ref="char:EOLhyphen"/>sels may tend to the advancement of his Glory, the maintenance of true Re<g ref="char:EOLhyphen"/>ligion, to suppressing of Vice and Error,
+<pb facs="tcp:197404:5"/> and the confirmation of a happy peace, that the King may be honoured, the Parliament obeyed, and Justice and Judg<g ref="char:EOLhyphen"/>ment executed, to Gods Glory, and the good of his Majesty and Kingdom.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered that this bee printed and published.</p>
+               <closer>
+                  <signed>Hen. Elsing Cler. Parl. D. Com</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS</trailer>
+         <trailer type="illustration">
+            <figure>
+               <q xml:lang="lat">VERITAS VIRESSIT VVLNERE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+         </trailer>
+      </body>
+   </text>
+</TEI>
